@@ -4,31 +4,7 @@
     justify-content: center;
     height: 100vh;
 }
-/* #div2{
-height: 50px;
-width: 50px;
-border-radius: 50%;
 
-
-    border-left: 3px dotted rgb(207, 110, 110);
-    transform: rotate(360deg);
-    animation: spinner;
-    animation-duration: 1s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    
-}
-
-@keyframes spinner {
-    from{
-        transform: rotate(0deg);
-        border-left: 3px solid rgb(0, 0, 0);
-    }
-    to{
-        transform: rotate(360deg);
-        border-left: 3px dotted rgb(243, 247, 244);
-    } 
-} */
 body{
     background-color: rgb(14, 49, 131);
     background:  -webkit-gradient(linear, left top, 
